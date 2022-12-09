@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T20:21:51 PST" name="Default suite" finished-at="2022-12-08T20:24:03 PST" duration-ms="131374">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T20:21:51 PST" name="Default test" finished-at="2022-12-08T20:24:03 PST" duration-ms="131374">
+      <class name="com.teamsnap.testCases.TS_LoginTest_001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.teamsnap.testCases.TS_LoginTest_001@2f217633]" started-at="2022-12-08T20:21:51 PST" name="setUp" finished-at="2022-12-08T20:21:54 PST" duration-ms="2481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TS_testing()[pri:0, instance:com.teamsnap.testCases.TS_LoginTest_001@2f217633]" started-at="2022-12-08T20:21:54 PST" name="TS_testing" finished-at="2022-12-08T20:22:12 PST" duration-ms="18267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_testing -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.teamsnap.testCases.TS_LoginTest_001@2f217633]" started-at="2022-12-08T20:22:12 PST" name="tearDown" finished-at="2022-12-08T20:22:12 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teamsnap.testCases.TS_LoginTest_001 -->
+      <class name="com.teamsnap.testCases.TS_UserAccount_002">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_002@437da279]" started-at="2022-12-08T20:22:12 PST" name="setUp" finished-at="2022-12-08T20:22:14 PST" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TS_testing()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_002@437da279]" started-at="2022-12-08T20:22:14 PST" name="TS_testing" finished-at="2022-12-08T20:22:27 PST" duration-ms="13439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_testing -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_002@437da279]" started-at="2022-12-08T20:22:27 PST" name="tearDown" finished-at="2022-12-08T20:22:27 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teamsnap.testCases.TS_UserAccount_002 -->
+      <class name="com.teamsnap.testCases.TS_UserAccount_003">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_003@23c30a20]" started-at="2022-12-08T20:22:27 PST" name="setUp" finished-at="2022-12-08T20:22:29 PST" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TS_testing()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_003@23c30a20]" started-at="2022-12-08T20:22:29 PST" name="TS_testing" finished-at="2022-12-08T20:22:43 PST" duration-ms="13933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_testing -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_003@23c30a20]" started-at="2022-12-08T20:22:43 PST" name="tearDown" finished-at="2022-12-08T20:22:43 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teamsnap.testCases.TS_UserAccount_003 -->
+      <class name="com.teamsnap.testCases.TS_UserAccount_004">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_004@1e1a0406]" started-at="2022-12-08T20:22:43 PST" name="setUp" finished-at="2022-12-08T20:22:44 PST" duration-ms="1543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TS_testing()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_004@1e1a0406]" started-at="2022-12-08T20:22:44 PST" name="TS_testing" finished-at="2022-12-08T20:24:03 PST" duration-ms="78611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_testing -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.teamsnap.testCases.TS_UserAccount_004@1e1a0406]" started-at="2022-12-08T20:24:03 PST" name="tearDown" finished-at="2022-12-08T20:24:03 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teamsnap.testCases.TS_UserAccount_004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
